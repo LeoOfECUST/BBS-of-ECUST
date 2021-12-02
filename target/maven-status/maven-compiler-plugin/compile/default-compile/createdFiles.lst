@@ -1,0 +1,4 @@
+ssm\service\testService.class
+ssm\pojo\testPojo.class
+ssm\dao\testMapper.class
+ssm\contorller\testController.class
